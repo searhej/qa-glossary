@@ -1,0 +1,6 @@
+git init
+git add qa_glossary.html
+git commit -m "add glossary html"
+git branch -M main
+git remote add origin https://github.com/searhej/qa-glossary.git
+git push -u origin main
